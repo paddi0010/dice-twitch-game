@@ -1,6 +1,6 @@
 {
   "name": "dice-game-twitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Twitch dice Game for Twitch Chat",
   "main": "dice_game.js",
   "scripts": {
