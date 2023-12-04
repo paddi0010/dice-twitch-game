@@ -1,0 +1,14 @@
+{
+  "name": "dice-game-twitch",
+  "version": "1.0.0",
+  "description": "A Twitch dice Game for Twitch Chat",
+  "main": "dice_game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
+}
