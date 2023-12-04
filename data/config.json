@@ -1,0 +1,10 @@
+{
+    "channels": [ "YOUR_TARGET_CHANNEL" ],
+  
+    "identify": {
+      "username": "YOUR_BOT_NAME",
+      "password": "YOUR_OAUTH_TOKEN"
+  
+    }
+  }
+  
