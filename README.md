@@ -2,10 +2,7 @@
 
 This is a basic dice game using JavaScript library tmi.js and node.js. You can get tmi.js with 
 
-```sh
-npm install tmi.js
-```
-and node.js here: https://nodejs.org/en
+You must have node js installed otherwise nothing will work. You can get it [here](https://nodejs.org/en)
 
 The answers of the Bot are in English language!
 
