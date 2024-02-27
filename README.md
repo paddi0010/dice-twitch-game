@@ -27,5 +27,11 @@ Now the Dice Game should be started!
 
 **For stop the Game, you can easy close the Command Window ;)**
 
+
+| Command | Description |
+| --- | --- |
+| `!dice start` | Start the Game |
+| `!dice stop` | Stop the Game |
+
 --> *I am a beginner in JavaScript, so there may be errors.
 If you find a bug or encounter any other issues, feel free to open a issue, and I'll do my best to fix the bug or help you.* :)
